@@ -1,3 +1,3 @@
-<x-layout :titulo="$centro">
-    <p>Pantalla principal</p>
+<x-layout titulo="Pantalla principal">
+    <p>Bienvenida a marcapersonalFP, la red de currículos del {{ $centro }}.</p>
 </x-layout>
